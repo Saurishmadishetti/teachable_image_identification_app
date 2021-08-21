@@ -1,0 +1,17 @@
+body{
+    background-color: gold;
+    color: mediumblue;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camopen{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed orange;
+}
+.objectlist,#object_name_dis,#object_accuracy{
+    color:darkgreen ;
+    font-size: 20px;
+}
